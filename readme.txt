@@ -9,8 +9,7 @@ Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-WC Free Checkout Fields for WooCommerce, Copyright 2020 Bastian Kreiter. Fork of https://gist.github.com/bekarice/474ab82ab37b8de8617d#file-wc-free-checkout-fields-php Beka Rice
-
+WC Checkout Checkboxes for WooCommerce, Copyright 2020 Bastian Kreiter.
 
 == Installation ==
 
